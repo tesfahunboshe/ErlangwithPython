@@ -25,7 +25,7 @@ def request(output):
 
 
 #UID=str(input('Enter user ID: '))
-UID='2d735398-18b2-11ed-861d-0242ac120002'
+UID= 'XXXXXXX' # insert your own ID
 output={'UID':UID}
     
 
